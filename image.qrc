@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/map.png</file>
+        <file>image/badge_platinum_profile.png</file>
+        <file>image/iconfinder-home-4341294_120570.png</file>
+        <file>image/iconfinder-layer-4341302_120568.png</file>
+        <file>image/feather-pen_icon-icons.com_52939.png</file>
+        <file>image/iconfinder-trash-4341321_120557.png</file>
+        <file>image/teme.PNG</file>
+        <file>image/1486504331-burn-fire-flame-danger-burning-hot_81317.png</file>
+        <file>image/flat-style-circle-add_icon-icons.com_66944.png</file>
+    </qresource>
+</RCC>
