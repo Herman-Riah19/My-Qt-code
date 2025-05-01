@@ -50,20 +50,6 @@ cd My-Qt-code
 
 ---
 
-## 📁 Project Structure
-
-```
-My-Qt-code/
-├── src/                # Application source code
-├── include/            # Header files
-├── resources/          # Icons, UI files, translations
-├── tests/              # Unit or simulation test cases
-├── CMakeLists.txt      # (Optional) CMake configuration
-└── README.md           # This file
-```
-
----
-
 ## 🌍 Use Case Example
 
 - **City Scenario**: Estimate the number of 4G towers required for Antananarivo.
